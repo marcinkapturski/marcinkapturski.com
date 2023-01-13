@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/marcinkapturski.com/static/css/main.073c9b0a.css",
-    "main.js": "/marcinkapturski.com/static/js/main.ddf02876.js",
-    "static/js/787.0cae3ce1.chunk.js": "/marcinkapturski.com/static/js/787.0cae3ce1.chunk.js",
-    "static/media/logo.svg": "/marcinkapturski.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/marcinkapturski.com/index.html",
-    "main.073c9b0a.css.map": "/marcinkapturski.com/static/css/main.073c9b0a.css.map",
-    "main.ddf02876.js.map": "/marcinkapturski.com/static/js/main.ddf02876.js.map",
-    "787.0cae3ce1.chunk.js.map": "/marcinkapturski.com/static/js/787.0cae3ce1.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.9accdd10.js",
+    "static/js/787.0cae3ce1.chunk.js": "/static/js/787.0cae3ce1.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.9accdd10.js.map": "/static/js/main.9accdd10.js.map",
+    "787.0cae3ce1.chunk.js.map": "/static/js/787.0cae3ce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ddf02876.js"
+    "static/js/main.9accdd10.js"
   ]
 }
