@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e86413f5.js",
-    "static/js/496.0aa5a9ee.chunk.js": "/static/js/496.0aa5a9ee.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.da5a7311.css",
+    "main.js": "/static/js/main.e907ad9d.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/ElegantIcons.svg": "/static/media/ElegantIcons.a3709f859357b50798d9.svg",
+    "static/media/et-line.svg": "/static/media/et-line.613c7311d2d5a1dd7e49.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/background.jpg": "/static/media/background.a9533827d9c62db19564.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ElegantIcons.woff": "/static/media/ElegantIcons.941bf29b415d3a9b7099.woff",
+    "static/media/ElegantIcons.eot": "/static/media/ElegantIcons.78ba4ad1289e5a66ca11.eot",
+    "static/media/ElegantIcons.ttf": "/static/media/ElegantIcons.4555dd9ce623f8fd6d72.ttf",
+    "static/media/et-line.woff": "/static/media/et-line.d59b23856f66f9876c47.woff",
+    "static/media/et-line.eot": "/static/media/et-line.3f5eecf9f3326c4d6d81.eot",
+    "static/media/et-line.ttf": "/static/media/et-line.cc7129c849c81d254698.ttf",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e86413f5.js.map": "/static/js/main.e86413f5.js.map",
-    "496.0aa5a9ee.chunk.js.map": "/static/js/496.0aa5a9ee.chunk.js.map"
+    "main.da5a7311.css.map": "/static/css/main.da5a7311.css.map",
+    "main.e907ad9d.js.map": "/static/js/main.e907ad9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e86413f5.js"
+    "static/css/main.da5a7311.css",
+    "static/js/main.e907ad9d.js"
   ]
 }
