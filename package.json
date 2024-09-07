@@ -93,7 +93,7 @@
     "cypress": "13.9.0",
     "cypress-mochawesome-reporter": "^3.5.1",
     "cypress-tags": "^1.1.2",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "path": "^0.12.7"
   },
   "browser": {
